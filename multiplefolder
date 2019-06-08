@@ -1,0 +1,7 @@
+
+#to make multiple folders in seconds in windows through commandline
+step 1:open commandline
+step 2:choose the place whereevr you want to make files/directories
+step 3:here the directories are made on desktop (cd Desktop)
+step 4:for /L %i in (1,1,5) do (mkdir %i)
+five files could be made thorugh this for loop
