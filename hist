@@ -1,0 +1,2 @@
+#history displayed with date and time
+export HISTTIMEFORMAT='%F %T'
