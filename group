@@ -1,0 +1,2 @@
+#to fetch the list of all the groups we use the command
+$ cat /etc/group
